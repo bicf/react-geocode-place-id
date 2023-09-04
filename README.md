@@ -18,19 +18,19 @@ This module uses [Google Maps Geocoding API](https://developers.google.com/maps/
 ### Install
 
 ```shell
-npm install --save react-geocode
+npm install --save react-geocode-place-id
 ```
 
 or
 
 ```shell
-yarn add react-geocode
+yarn add react-geocode-place-id
 ```
 
 ### Example
 
 ```js
-import Geocode from "react-geocode";
+import Geocode from "react-geocode-place-id";
 
 // set Google Maps Geocoding API for purposes of quota management. Its optional but recommended.
 Geocode.setApiKey("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");

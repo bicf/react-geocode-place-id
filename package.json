@@ -1,6 +1,6 @@
 {
   "name": "react-geocode-place-id",
-  "version": "0.2.3-2",
+  "version": "0.2.3-3",
   "description": "A module to transform a description of a location (i.e. street address, town name, etc.) into geographic coordinates (i.e. latitude and longitude) and vice versa. This fork mangage also the place_id requests.",
   "main": "./lib/index.js",
   "repository": {
